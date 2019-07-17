@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "./style.css";
 
 function OptionsCard({name, image, onClick}) {
@@ -13,3 +13,4 @@ function OptionsCard({name, image, onClick}) {
 }
 
 export default OptionsCard;
+
