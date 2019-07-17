@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css";
+import "./style.css";
 
 function Container(props) {
   return <div className="container-fluid">{props.children}</div>;

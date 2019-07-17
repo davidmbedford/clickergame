@@ -1,17 +1,33 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
-import optionslist from "./components/options";
+import Container from './components/Container';
+import Header from './components/Header';
+import Nav from './components/Nav';
+import Options from './components/Options';
+import OptionsCard from './components/OptionsCard';
+import optionsList from '/components/optionsList'
 
 function App() {
+
+
+  const shuffleOptionsCards = () => {
+
+  }
+
+  const displayOptions = () => {
+    return options.map(character =>
+      <OptionsCard key={options.id} isClicked={options.isClicked} name={options.name} image={options.image} onClick={shuffleOptionsCards} />
+    )
+  }
+
   return (
     <>
     <Nav/>
     <Header/>
     <Container>
       <Options>
-        {renderOptions()}
+        {displayOptions()}
       </Options>
     </Container>
     </>

@@ -1,7 +1,7 @@
 
 import React from "react";
 import Row from "../Row"
-import "./styles.css";
+import "./style.css";
 
 function Options(props) {
     return (
