@@ -1,6 +1,7 @@
 # Star Wars: Force Clicker!
 ### A React-based memory game
 **Link:** https://clickergame-rubc.herokuapp.com/
+
 **The Rules:** Click on the characters without hitting the same one twice! Make it through all 12 and prove you're in tune with the force. 
 
 ### This app utilizes: 
