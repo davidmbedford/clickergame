@@ -13,4 +13,4 @@
 
 This app made entirely by: davidmbedford using *Create React App*.
 
-I do not own any of the images or Star Wars relatede content. 
+I do not own any of the images or Star Wars related content. 
