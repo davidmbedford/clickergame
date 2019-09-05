@@ -8,6 +8,7 @@
  * React
  * JS ES6
  * Materialize
+ * HTML5/CSS3
 
 
 This app made entirely by: davidmbedford using *Create React App*.
