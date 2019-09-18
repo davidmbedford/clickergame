@@ -2,7 +2,7 @@ const optionsList = [
     {
         "id": 1,
         "name": "Boba Fett",
-        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png/revision/latest?cb=20161114160631",
+        "image": "../assets/images/Boba_Fett.png",
         "isClicked": false
     },
     {
