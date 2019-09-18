@@ -2,7 +2,7 @@ const optionsList = [
     {
         "id": 1,
         "name": "Boba Fett",
-        "image": "../assets/images/Boba_Fett.png",
+        "image": "images/Boba_Fett.png",
         "isClicked": false
     },
     {
