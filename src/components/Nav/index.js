@@ -3,9 +3,14 @@ import "./style.css";
 
 function Navbar(props) {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
-              <h3 className="navbar-brand">Star Wars: Force Clicker</h3>
-                <p>Score: {props.currentScore} | Top Score: {props.highScore}</p>
+        <nav className="navbar navbar-light bg-light">
+
+            <a className="navbar-brand mb-0 h1" href="https://github.com/davidmbedford/clickergame">
+                {/* <img src="../../assets/rebel-symbol.png" className="d-inline-block align-top" alt="Rebel-logo"/> */}
+                <span className="navfont1">Star Wars:</span> <span className="navfont2">Force Clicker</span>
+            </a>
+
+            <ul className="align-right navfont3">Score: {props.currentScore} | Top Score: {props.highScore}</ul>
         </nav>
     );
 }
