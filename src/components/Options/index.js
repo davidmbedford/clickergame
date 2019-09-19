@@ -6,11 +6,11 @@ import "./style.css";
 function Options(props) {
     return (
         <>
-            <ul>
+            <div>
                 <Row>
                     {props.children}
                 </Row>
-            </ul>
+            </div>
         </>
     )
 }
