@@ -94,11 +94,11 @@ function App() {
     <>
     <Nav currentScore={currentScore} highScore={highScore} />
     <Header phrase={phrase} />
-    <Container>
-      <Options>
-        {displayOptions()}
-      </Options>
-    </Container>
+      <Container>
+        <Options>
+          {displayOptions()}
+        </Options>
+      </Container>
     </>
   );
 }
