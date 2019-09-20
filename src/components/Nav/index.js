@@ -3,7 +3,7 @@ import "./style.css";
 
 function Navbar(props) {
     return (
-        <nav className="navbar navbar-light bg-light">
+        <nav className="navbar navbar-dark sticky-top bg-dark">
 
             <a className="navbar-brand mb-0 h1" href="https://github.com/davidmbedford/clickergame">
                 {/* <img src="../../assets/rebel-symbol.png" className="d-inline-block align-top" alt="Rebel-logo"/> */}

@@ -10,4 +10,9 @@
 
 .navfont3 {
     font-family: 'Press Start 2P', cursive;
+    color: #FFFFFF;
+}
+
+.navbar-brand {
+    box-shadow: 5rem;
 }
