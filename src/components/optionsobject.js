@@ -8,7 +8,7 @@ const optionsList = [
     {
         "id": 2,
         "name": "Han Solo",
-        "image": "images/Han_solo.png",
+        "image": "images/Han_Solo.png",
         "isClicked": false
     },
     {
