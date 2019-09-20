@@ -69,6 +69,30 @@ const optionsList = [
         "name": "Jabba the Hutt",
         "image": "images/Jabba.png",
         "isClicked": false
+    },
+    {
+        "id": 13,
+        "name": "C3P0",
+        "image": "images/C3PO.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 14,
+        "name": "Chewbacca",
+        "image": "images/Chewbacca.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 15,
+        "name": "IG88",
+        "image": "images/IG88.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 16,
+        "name": "R2D2",
+        "image": "images/R2D2.jpg",
+        "isClicked": false
     }
 ]
 

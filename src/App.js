@@ -11,7 +11,7 @@ import optionsList from './components/optionsobject'
 function App() {
   const [currentScore, setcurrentScore] = useState(0);
   const [highScore, sethighScore] = useState(0);
-  const maxScore = 12;
+  const maxScore = 16;
   const [options, setOptions] = useState(optionsList);
   const [phrase, setPhrase] = useState("Trust your instincts, young padawan!");
 

@@ -13,6 +13,6 @@
     color: #FFFFFF;
 }
 
-.navbar-brand {
-    box-shadow: 5rem;
+.navbar {
+    opacity: 0.95;
 }
